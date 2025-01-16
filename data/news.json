@@ -2,7 +2,8 @@
     {
         "title": "NEWS 1°",
         "info": "The Wallet That Electrocutes Your Dick",
-
+        "kind": "default",
+        
         "images": [
             "https://R4gingBu1l.github.io/images/wallet.jpg",
             "https://R4gingBu1l.github.io/images/specifications.jpg",
